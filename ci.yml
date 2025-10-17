@@ -14,3 +14,4 @@ name: Deploy via ftp
               user: "flowker2"
               password: "SeuCuAzul!Vermelh0"
               localDir: "dist"
+              remoteDir: "/public_html/"
